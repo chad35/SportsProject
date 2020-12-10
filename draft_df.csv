@@ -1,0 +1,998 @@
+,Year,Round,Pick,Player,Name,Team,Position,College
+0,2020,1,1,1,Joe Burrow,Bengals,QB,Louisiana State
+1, ,1,3,3,Jeff Okudah,Lions,DB,Ohio State
+2, ,1,5,5,Tua Tagovailoa,Dolphins,QB,Alabama
+3, ,1,7,7,Derrick Brown,Panthers,DT,Auburn
+4, ,1,9,9,CJ Henderson,Jaguars,DB,Florida
+5, ,1,11,11,Mekhi Becton,Jets, T,Louisville
+6, ,1,13,13,Tristan Wirfs,Buccaneers, T,Iowa
+7, ,1,15,15,Jerry Jeudy,Broncos,WR,Alabama
+8, ,1,17,17,CeeDee Lamb,Cowboys,WR,Oklahoma
+9, ,1,19,19,Damon Arnette,Raiders,DB,Ohio State
+10, ,1,21,21,Jalen Reagor,Eagles,WR,Texas Christian
+11, ,1,23,23,Kenneth Murray,Chargers,LB,Oklahoma
+12, ,1,25,25,Brandon Aiyuk,49ers,WR,Arizona State
+13, ,1,27,27,Jordyn Brooks,Seahawks,LB,Texas Tech
+14, ,1,29,29,Isaiah Wilson,Titans, T,Georgia
+15, ,1,31,31,Jeff Gladney,Vikings,DB,Texas Christian
+16,2019,1,1,1,Kyler Murray,Cardinals,QB,Oklahoma
+17, ,1,3,3,Quinnen Williams,Jets,DT,Alabama
+18, ,1,5,5,Devin White,Buccaneers,LB,Louisiana State
+19, ,1,7,7,Josh Allen,Jaguars,LB,Kentucky
+20, ,1,9,9,Ed Oliver,Bills,DT,Houston
+21, ,1,11,11,Jonah Williams,Bengals, T,Alabama
+22, ,1,13,13,Christian Wilkins,Dolphins,DT,Clemson
+23, ,1,15,15,Dwayne Haskins,Redskins,QB,Ohio State
+24, ,1,17,17,Dexter Lawrence,Giants,DT,Clemson
+25, ,1,19,19,Jeffery Simmons,Titans,DT,Mississippi State
+26, ,1,21,21,Darnell Savage,Packers,DB,Maryland
+27, ,1,23,23,Tytus Howard,Texans, T,Alabama State
+28, ,1,25,25,Marquise Brown,Ravens,WR,Oklahoma
+29, ,1,27,27,Johnathan Abram,Raiders,DB,Mississippi State
+30, ,1,29,29,L.J. Collier,Seahawks,DE,Texas Christian
+31, ,1,31,31,Kaleb McGary,Falcons, T,Washington
+32,2018,1,1,1,Baker Mayfield,Browns,QB,Oklahoma
+33, ,1,3,3,Sam Darnold,Jets,QB,USC
+34, ,1,5,5,Bradley Chubb,Broncos,DE,North Carolina State
+35, ,1,7,7,Josh Allen,Bills,QB,Wyoming
+36, ,1,9,9,Mike McGlinchey,49ers, T,Notre Dame
+37, ,1,11,11,Minkah Fitzpatrick,Dolphins,DB,Alabama
+38, ,1,13,13,Da'Ron Payne,Redskins,DT,Alabama
+39, ,1,15,15,Kolton Miller,Raiders, T,UCLA
+40, ,1,17,17,Derwin James,Chargers,DB,Florida State
+41, ,1,19,19,Leighton Vander Esch,Cowboys,LB,Boise State
+42, ,1,21,21,Billy Price,Bengals, C,Ohio State
+43, ,1,23,23,Isaiah Wynn,Patriots, G,Georgia
+44, ,1,25,25,Hayden Hurst,Ravens,TE,South Carolina
+45, ,1,27,27,Rashaad Penny,Seahawks,RB,San Diego State
+46, ,1,29,29,Taven Bryan,Jaguars,DT,Florida
+47, ,1,31,31,Sony Michel,Patriots,RB,Georgia
+48,2017,1,1,1,Myles Garrett,Browns,DE,Texas A&M
+49, ,1,3,3,Solomon Thomas,49ers,DE,Stanford
+50, ,1,5,5,Corey Davis,Titans,WR,Western Michigan
+51, ,1,7,7,Mike Williams,Chargers,WR,Clemson
+52, ,1,9,9,John Ross,Bengals,WR,Washington
+53, ,1,11,11,Marshon Lattimore,Saints,DB,Ohio State
+54, ,1,13,13,Haason Reddick,Cardinals,LB,Temple
+55, ,1,15,15,Malik Hooker,Colts,DB,Ohio State
+56, ,1,17,17,Jonathan Allen,Redskins,DE,Alabama
+57, ,1,19,19,O.J. Howard,Buccaneers,TE,Alabama
+58, ,1,21,21,Jarrad Davis,Lions,LB,Florida
+59, ,1,23,23,Evan Engram,Giants,TE,Mississippi
+60, ,1,25,25,Jabrill Peppers,Browns,DB,Michigan
+61, ,1,27,27,Tre'Davious White,Bills,DB,Louisiana State
+62, ,1,29,29,David Njoku,Browns,TE,Miami (FL)
+63, ,1,31,31,Reuben Foster,49ers,LB,Alabama
+64,2016,1,1,1,Jared Goff,Rams,QB,California
+65, ,1,3,3,Joey Bosa,Chargers,DE,Ohio State
+66, ,1,5,5,Jalen Ramsey,Jaguars,DB,Florida State
+67, ,1,7,7,DeForest Buckner,49ers,DE,Oregon
+68, ,1,9,9,Leonard Floyd,Bears,LB,Georgia
+69, ,1,11,11,Vernon Hargreaves,Buccaneers,DB,Florida
+70, ,1,13,13,Laremy Tunsil,Dolphins, T,Mississippi
+71, ,1,15,15,Corey Coleman,Browns,WR,Baylor
+72, ,1,17,17,Keanu Neal,Falcons,DB,Florida
+73, ,1,19,19,Shaq Lawson,Bills,DE,Clemson
+74, ,1,21,21,Will Fuller,Texans,WR,Notre Dame
+75, ,1,23,23,Laquon Treadwell,Vikings,WR,Mississippi
+76, ,1,25,25,Artie Burns,Steelers,DB,Miami (FL)
+77, ,1,27,27,Kenny Clark,Packers,DT,UCLA
+78, ,1,29,29,Robert Nkemdiche,Cardinals,DT,Mississippi
+79, ,1,31,31,Germain Ifedi,Seahawks, G,Texas A&M
+80, ,1,2,2,Marcus Mariota,Titans,QB,Oregon
+81, ,1,4,4,Amari Cooper,Raiders,WR,Alabama
+82, ,1,6,6,Leonard Williams,Jets,DE,USC
+83, ,1,8,8,Vic Beasley,Falcons,LB,Clemson
+84, ,1,10,10,Todd Gurley,Rams,RB,Georgia
+85, ,1,12,12,Danny Shelton,Browns,DT,Washington
+86, ,1,14,14,DeVante Parker,Dolphins,WR,Louisville
+87, ,1,16,16,Kevin Johnson,Texans,DB,Wake Forest
+88, ,1,18,18,Marcus Peters,Chiefs,DB,Washington
+89, ,1,20,20,Nelson Agholor,Eagles,WR,USC
+90, ,1,22,22,Bud Dupree,Steelers,LB,Kentucky
+91, ,1,24,24,D.J. Humphries,Cardinals, T,Florida
+92, ,1,26,26,Breshad Perriman,Ravens,WR,Central Florida
+93, ,1,28,28,Laken Tomlinson,Lions, G,Duke
+94, ,1,30,30,Damarious Randall,Packers,DB,Arizona State
+95, ,1,32,32,Malcom Brown,Patriots,DT,Texas
+96, ,1,2,2,Greg Robinson,Rams, T,Auburn
+97, ,1,4,4,Sammy Watkins,Bills,WR,Clemson
+98, ,1,6,6,Jake Matthews,Falcons, T,Texas A&M
+99, ,1,8,8,Justin Gilbert,Browns,DB,Oklahoma State
+100, ,1,10,10,Eric Ebron,Lions,TE,North Carolina
+101, ,1,12,12,Odell Beckham,Giants,WR,Louisiana State
+102, ,1,14,14,Kyle Fuller,Bears,DB,Virginia Tech
+103, ,1,16,16,Zack Martin,Cowboys, T,Notre Dame
+104, ,1,18,18,Calvin Pryor,Jets,DB,Louisville
+105, ,1,20,20,Brandin Cooks,Saints,WR,Oregon State
+106, ,1,22,22,Johnny Manziel,Browns,QB,Texas A&M
+107, ,1,24,24,Darqueze Dennard,Bengals,DB,Michigan State
+108, ,1,26,26,Marcus Smith,Eagles,DE,Louisville
+109, ,1,28,28,Kelvin Benjamin,Panthers,WR,Florida State
+110, ,1,30,30,Jimmie Ward,49ers,DB,Northern Illinois
+111, ,1,32,32,Teddy Bridgewater,Vikings,QB,Louisville
+112, ,1,2,2,Luke Joeckel,Jaguars, T,Texas A&M
+113, ,1,4,4,Lane Johnson,Eagles, T,Oklahoma
+114, ,1,6,6,Barkevious Mingo,Browns,DE,Louisiana State
+115, ,1,8,8,Tavon Austin,Rams,WR,West Virginia
+116, ,1,10,10,Chance Warmack,Titans, G,Alabama
+117, ,1,12,12,D.J. Hayden,Raiders,DB,Houston
+118, ,1,14,14,Star Lotulelei,Panthers,DT,Utah
+119, ,1,16,16,EJ Manuel,Bills,QB,Florida State
+120, ,1,18,18,Eric Reid,49ers,DB,Louisiana State
+121, ,1,20,20,Kyle Long,Bears, G,Oregon
+122, ,1,22,22,Desmond Trufant,Falcons,DB,Washington
+123, ,1,24,24,Bjoern Werner,Colts,DE,Florida State
+124, ,1,26,26,Datone Jones,Packers,DE,UCLA
+125, ,1,28,28,Sylvester Williams,Broncos,DT,North Carolina
+126, ,1,30,30,Alec Ogletree,Rams,LB,Georgia
+127, ,1,32,32,Matt Elam,Ravens,DB,Florida
+128, ,1,2,2,Robert Griffin,Redskins,QB,Baylor
+129, ,1,4,4,Matt Kalil,Vikings, T,USC
+130, ,1,6,6,Morris Claiborne,Cowboys,DB,Louisiana State
+131, ,1,8,8,Ryan Tannehill,Dolphins,QB,Texas A&M
+132, ,1,10,10,Stephon Gilmore,Bills,DB,South Carolina
+133, ,1,12,12,Fletcher Cox,Eagles,DT,Mississippi State
+134, ,1,14,14,Michael Brockers,Rams,DT,Louisiana State
+135, ,1,16,16,Quinton Coples,Jets,DE,North Carolina
+136, ,1,18,18,Melvin Ingram,Chargers,DE,South Carolina
+137, ,1,20,20,Kendall Wright,Titans,WR,Baylor
+138, ,1,22,22,Brandon Weeden,Browns,QB,Oklahoma State
+139, ,1,24,24,David DeCastro,Steelers, G,Stanford
+140, ,1,26,26,Whitney Mercilus,Texans,DE,Illinois
+141, ,1,28,28,Nick Perry,Packers,DE,USC
+142, ,1,30,30,A.J. Jenkins,49ers,WR,Illinois
+143, ,1,32,32,David Wilson,Giants,RB,Virginia Tech
+144, ,1,2,2,Von Miller,Broncos,LB,Texas A&M
+145, ,1,4,4,A.J. Green,Bengals,WR,Georgia
+146, ,1,6,6,Julio Jones,Falcons,WR,Alabama
+147, ,1,8,8,Jake Locker,Titans,QB,Washington
+148, ,1,10,10,Blaine Gabbert,Jaguars,QB,Missouri
+149, ,1,12,12,Christian Ponder,Vikings,QB,Florida State
+150, ,1,14,14,Robert Quinn,Rams,DE,North Carolina
+151, ,1,16,16,Ryan Kerrigan,Redskins,LB,Purdue
+152, ,1,18,18,Corey Liuget,Chargers,DT,Illinois
+153, ,1,20,20,Adrian Clayborn,Buccaneers,DE,Iowa
+154, ,1,22,22,Anthony Castonzo,Colts, T,Boston College
+155, ,1,24,24,Cameron Jordan,Saints,DE,California
+156, ,1,26,26,Jonathan Baldwin,Chiefs,WR,Pittsburgh
+157, ,1,28,28,Mark Ingram,Saints,RB,Alabama
+158, ,1,30,30,Muhammad Wilkerson,Jets,DT,Temple
+159, ,1,32,32,Derek Sherrod,Packers, T,Mississippi State
+160, ,1,2,2,Ndamukong Suh,Lions,DT,Nebraska
+161, ,1,4,4,Trent Williams,Redskins, T,Oklahoma
+162, ,1,6,6,Russell Okung,Seahawks, T,Oklahoma State
+163, ,1,8,8,Rolando McClain,Raiders,LB,Alabama
+164, ,1,10,10,Tyson Alualu,Jaguars,DE,California
+165, ,1,12,12,Ryan Mathews,Chargers,RB,Fresno State
+166, ,1,14,14,Earl Thomas,Seahawks,DB,Texas
+167, ,1,16,16,Derrick Morgan,Titans,DE,Georgia Tech
+168, ,1,18,18,Maurkice Pouncey,Steelers, C,Florida
+169, ,1,20,20,Kareem Jackson,Texans,DB,Alabama
+170, ,1,22,22,Demaryius Thomas,Broncos,WR,Georgia Tech
+171, ,1,24,24,Dez Bryant,Cowboys,WR,Oklahoma State
+172, ,1,26,26,Dan Williams,Cardinals,DT,Tennessee
+173, ,1,28,28,Jared Odrick,Dolphins,DT,Penn State
+174, ,1,30,30,Jahvid Best,Lions,RB,California
+175, ,1,32,32,Patrick Robinson,Saints,DB,Florida State
+176, ,1,2,2,Jason Smith,Rams, T,Baylor
+177, ,1,4,4,Aaron Curry,Seahawks,LB,Wake Forest
+178, ,1,6,6,Andre Smith,Bengals, T,Alabama
+179, ,1,8,8,Eugene Monroe,Jaguars, T,Virginia
+180, ,1,10,10,Michael Crabtree,49ers,WR,Texas Tech
+181, ,1,12,12,Knowshon Moreno,Broncos,RB,Georgia
+182, ,1,14,14,Malcolm Jenkins,Saints,DB,Ohio State
+183, ,1,16,16,Larry English,Chargers,LB,Northern Illinois
+184, ,1,18,18,Robert Ayers,Broncos,DE,Tennessee
+185, ,1,20,20,Brandon Pettigrew,Lions,TE,Oklahoma State
+186, ,1,22,22,Percy Harvin,Vikings,WR,Florida
+187, ,1,24,24,Peria Jerry,Falcons,DT,Mississippi
+188, ,1,26,26,Clay Matthews,Packers,LB,USC
+189, ,1,28,28,Eric Wood,Bills, C,Louisville
+190, ,1,30,30,Kenny Britt,Titans,WR,Rutgers
+191, ,1,32,32,Ziggy Hood,Steelers,DT,Missouri
+192, ,1,2,2,Chris Long,Rams,DE,Virginia
+193, ,1,4,4,Darren McFadden,Raiders,RB,Arkansas
+194, ,1,6,6,Vernon Gholston,Jets,DE,Ohio State
+195, ,1,8,8,Derrick Harvey,Jaguars,DE,Florida
+196, ,1,10,10,Jerod Mayo,Patriots,LB,Tennessee
+197, ,1,12,12,Ryan Clady,Broncos, T,Boise State
+198, ,1,14,14,Chris Williams,Bears, T,Vanderbilt
+199, ,1,16,16,Dominique Rodgers-Cromartie,Cardinals,DB,Tennessee State
+200, ,1,18,18,Joe Flacco,Ravens,QB,Delaware
+201, ,1,20,20,Aqib Talib,Buccaneers,DB,Kansas
+202, ,1,22,22,Felix Jones,Cowboys,RB,Arkansas
+203, ,1,24,24,Chris Johnson,Titans,RB,East Carolina
+204, ,1,26,26,Duane Brown,Texans, T,Virginia Tech
+205, ,1,28,28,Lawrence Jackson,Seahawks,DE,USC
+206, ,1,30,30,Dustin Keller,Jets,TE,Purdue
+207,2007,1,1,1,JaMarcus Russell,Raiders,QB,Louisiana State
+208, ,1,3,3,Joe Thomas,Browns, T,Wisconsin
+209, ,1,5,5,Levi Brown,Cardinals, T,Penn State
+210, ,1,7,7,Adrian Peterson,Vikings,RB,Oklahoma
+211, ,1,9,9,Ted Ginn,Dolphins,WR,Ohio State
+212, ,1,11,11,Patrick Willis,49ers,LB,Mississippi
+213, ,1,13,13,Adam Carriker,Rams,DE,Nebraska
+214, ,1,15,15,Lawrence Timmons,Steelers,LB,Florida State
+215, ,1,17,17,Jarvis Moss,Broncos,DE,Florida
+216, ,1,19,19,Michael Griffin,Titans,DB,Texas
+217, ,1,21,21,Reggie Nelson,Jaguars,DB,Florida
+218, ,1,23,23,Dwayne Bowe,Chiefs,WR,Louisiana State
+219, ,1,25,25,Jon Beason,Panthers,LB,Miami (FL)
+220, ,1,27,27,Robert Meachem,Saints,WR,Tennessee
+221, ,1,29,29,Ben Grubbs,Ravens, G,Auburn
+222, ,1,31,31,Greg Olsen,Bears,TE,Miami (FL)
+223,2006,1,1,1,Mario Williams,Texans,DE,North Carolina State
+224, ,1,3,3,Vince Young,Titans,QB,Texas
+225, ,1,5,5,A.J. Hawk,Packers,LB,Ohio State
+226, ,1,7,7,Michael Huff,Raiders,DB,Texas
+227, ,1,9,9,Ernie Sims,Lions,LB,Florida State
+228, ,1,11,11,Jay Cutler,Broncos,QB,Vanderbilt
+229, ,1,13,13,Kamerion Wimbley,Browns,LB,Florida State
+230, ,1,15,15,Tye Hill,Rams,DB,Clemson
+231, ,1,17,17,Chad Greenway,Vikings,LB,Iowa
+232, ,1,19,19,Antonio Cromartie,Chargers,DB,Florida State
+233, ,1,21,21,Laurence Maroney,Patriots,RB,Minnesota
+234, ,1,23,23,Davin Joseph,Buccaneers, G,Oklahoma
+235, ,1,25,25,Santonio Holmes,Steelers,WR,Ohio State
+236, ,1,27,27,DeAngelo Williams,Panthers,RB,Memphis
+237, ,1,29,29,Nick Mangold,Jets, C,Ohio State
+238, ,1,31,31,Kelly Jennings,Seahawks,DB,Miami (FL)
+239,2005,1,1,1,Alex Smith,49ers,QB,Utah
+240, ,1,3,3,Braylon Edwards,Browns,WR,Michigan
+241, ,1,5,5,Cadillac Williams,Buccaneers,RB,Auburn
+242, ,1,7,7,Troy Williamson,Vikings,WR,South Carolina
+243, ,1,9,9,Carlos Rogers,Redskins,DB,Auburn
+244, ,1,11,11,Demarcus Ware,Cowboys,DE,Troy
+245, ,1,13,13,Jammal Brown,Saints, T,Oklahoma
+246, ,1,15,15,Derrick O. Johnson,Chiefs,LB,Texas
+247, ,1,17,17,David Pollack,Bengals,DE,Georgia
+248, ,1,19,19,Alex Barron,Rams, T,Florida State
+249, ,1,21,21,Matt Jones,Jaguars,WR,Arkansas
+250, ,1,23,23,Fabian Washington,Raiders,DB,Nebraska
+251, ,1,25,25,Jason Campbell,Redskins,QB,Auburn
+252, ,1,27,27,Roddy White,Falcons,WR,Alabama-Birmingham
+253, ,1,29,29,Marlin Jackson,Colts,DB,Michigan
+254, ,1,31,31,Mike Patterson,Eagles,DT,USC
+255,2004,1,1,1,Eli Manning,Chargers,QB,Mississippi
+256, ,1,3,3,Larry Fitzgerald,Cardinals,WR,Pittsburgh
+257, ,1,5,5,Sean Taylor,Redskins,DB,Miami (FL)
+258, ,1,7,7,Roy Williams,Lions,WR,Texas
+259, ,1,9,9,Reggie Williams,Jaguars,WR,Washington
+260, ,1,11,11,Ben Roethlisberger,Steelers,QB,Miami (OH)
+261, ,1,13,13,Lee Evans,Bills,WR,Wisconsin
+262, ,1,15,15,Michael Clayton,Buccaneers,WR,Louisiana State
+263, ,1,17,17,D.J. Williams,Broncos,LB,Miami (FL)
+264, ,1,19,19,Vernon Carey,Dolphins, G,Miami (FL)
+265, ,1,21,21,Vince Wilfork,Patriots,DT,Miami (FL)
+266, ,1,23,23,Marcus Tubbs,Seahawks,DT,Texas
+267, ,1,25,25,Ahmad Carroll,Packers,DB,Arkansas
+268, ,1,27,27,Jason Babin,Texans,DE,Western Michigan
+269, ,1,29,29,Michael Jenkins,Falcons,WR,Ohio State
+270, ,1,31,31,Rashaun Woods,49ers,WR,Oklahoma State
+271,2003,1,1,1,Carson Palmer,Bengals,QB,USC
+272, ,1,3,3,Andre Johnson,Texans,WR,Miami (FL)
+273, ,1,5,5,Terence Newman,Cowboys,DB,Kansas State
+274, ,1,7,7,Byron Leftwich,Jaguars,QB,Marshall
+275, ,1,9,9,Kevin Williams,Vikings,DE,Oklahoma State
+276, ,1,11,11,Marcus Trufant,Seahawks,DB,Washington State
+277, ,1,13,13,Ty Warren,Patriots,DT,Texas A&M
+278, ,1,15,15,Jerome McDougle,Eagles,DE,Miami (FL)
+279, ,1,17,17,Bryant Johnson,Cardinals,WR,Penn State
+280, ,1,19,19,Kyle Boller,Ravens,QB,California
+281, ,1,21,21,Jeff Faine,Browns, C,Notre Dame
+282, ,1,23,23,Willis McGahee,Bills,RB,Miami (FL)
+283, ,1,25,25,William Joseph,Giants,DT,Miami (FL)
+284, ,1,27,27,Larry Johnson,Chiefs,RB,Penn State
+285, ,1,29,29,Nick Barnett,Packers,LB,Oregon State
+286, ,1,31,31,Nnamdi Asomugha,Raiders,DB,California
+287,2002,1,1,1,David Carr,Texans,QB,Fresno State
+288, ,1,3,3,Joey Harrington,Lions,QB,Oregon
+289, ,1,5,5,Quentin Jammer,Chargers,DB,Texas
+290, ,1,7,7,Bryant McKinnie,Vikings, T,Miami (FL)
+291, ,1,9,9,John Henderson,Jaguars,DT,Tennessee
+292, ,1,11,11,Dwight Freeney,Colts,DE,Syracuse
+293, ,1,13,13,Donte' Stallworth,Saints,WR,Tennessee
+294, ,1,15,15,Albert Haynesworth,Titans,DT,Tennessee
+295, ,1,17,17,Phillip Buchanon,Raiders,DB,Miami (FL)
+296, ,1,19,19,Ashley Lelie,Broncos,WR,Hawaii
+297, ,1,21,21,Dan Graham,Patriots,TE,Colorado
+298, ,1,23,23,Napoleon Harris,Raiders,LB,Northwestern
+299, ,1,25,25,Charles Grant,Saints,DE,Georgia
+300, ,1,27,27,Mike Rumph,49ers,DB,Miami (FL)
+301, ,1,29,29,Marc Colombo,Bears, T,Boston College
+302, ,1,31,31,Robert Thomas,Rams,LB,UCLA
+303,2001,1,1,1,Michael Vick,Falcons,QB,Virginia Tech
+304, ,1,3,3,Gerard Warren,Browns,DT,Florida
+305, ,1,5,5,LaDainian Tomlinson,Chargers,RB,Texas Christian
+306, ,1,7,7,Andre Carter,49ers,DE,California
+307, ,1,9,9,Koren Robinson,Seahawks,WR,North Carolina State
+308, ,1,11,11,Dan Morgan,Panthers,LB,Miami (FL)
+309, ,1,13,13,Marcus Stroud,Jaguars,DT,Georgia
+310, ,1,15,15,Rod Gardner,Redskins,WR,Clemson
+311, ,1,17,17,Steve Hutchinson,Seahawks, G,Michigan
+312, ,1,19,19,Casey Hampton,Steelers,DT,Texas
+313, ,1,21,21,Nate Clements,Bills,DB,Ohio State
+314, ,1,23,23,Deuce McAllister,Saints,RB,Mississippi
+315, ,1,25,25,Freddie Mitchell,Eagles,WR,UCLA
+316, ,1,27,27,Michael Bennett,Vikings,RB,Wisconsin
+317, ,1,29,29,Ryan Pickett,Rams,DE,Ohio State
+318, ,1,31,31,Todd Heap,Ravens,TE,Arizona State
+319, ,1,2,2,LaVar Arrington,Redskins,LB,Penn State
+320, ,1,4,4,Peter Warrick,Bengals,WR,Florida State
+321, ,1,6,6,Corey Simon,Eagles,DT,Florida State
+322, ,1,8,8,Plaxico Burress,Steelers,WR,Michigan State
+323, ,1,10,10,Travis Taylor,Ravens,WR,Florida
+324, ,1,12,12,Shaun Ellis,Jets,DE,Tennessee
+325, ,1,14,14,Bubba Franks,Packers,TE,Miami (FL)
+326, ,1,16,16,Julian Peterson,49ers,LB,Michigan State
+327, ,1,18,18,Chad Pennington,Jets,QB,Marshall
+328, ,1,20,20,Stockar McDougle,Lions, T,Oklahoma
+329, ,1,22,22,Chris McIntosh,Seahawks, T,Wisconsin
+330, ,1,24,24,Ahmed Plummer,49ers,DB,Ohio State
+331, ,1,26,26,Erik Flowers,Bills,DE,Arizona State
+332, ,1,28,28,Rob Morris,Colts,LB,Brigham Young
+333, ,1,30,30,Keith Bulluck,Titans,LB,Syracuse
+334,1999,1,1,1,Tim Couch,Browns,QB,Kentucky
+335, ,1,3,3,Akili Smith,Bengals,QB,Oregon
+336, ,1,5,5,Ricky Williams,Saints,RB,Texas
+337, ,1,7,7,Champ Bailey,Redskins,DB,Georgia
+338, ,1,9,9,Chris Claiborne,Lions,LB,USC
+339, ,1,11,11,Daunte Culpepper,Vikings,QB,Central Florida
+340, ,1,13,13,Troy Edwards,Steelers,WR,Louisiana Tech
+341, ,1,15,15,Anthony McFarland,Buccaneers,DT,Louisiana State
+342, ,1,17,17,Damien Woody,Patriots, C,Boston College
+343, ,1,19,19,Luke Petitgout,Giants, T,Notre Dame
+344, ,1,21,21,L.J. Shelton,Cardinals, T,Eastern Michigan
+345, ,1,23,23,Antoine Winfield,Bills,DB,Ohio State
+346, ,1,25,25,Antwan Edwards,Packers,DB,Clemson
+347, ,1,27,27,Aaron Gibson,Lions, T,Wisconsin
+348, ,1,29,29,Dimitrius Underwood,Vikings,DE,Michigan State
+349, ,1,31,31,Al Wilson,Broncos,LB,Tennessee
+350, ,1,2,2,Ryan Leaf,Chargers,QB,Washington State
+351, ,1,4,4,Charles Woodson,Raiders,DB,Michigan
+352, ,1,6,6,Grant Wistrom,Rams,DE,Nebraska
+353, ,1,8,8,Greg Ellis,Cowboys,DE,North Carolina
+354, ,1,10,10,Duane Starks,Ravens,DB,Miami (FL)
+355, ,1,12,12,Keith Brooking,Falcons,LB,Georgia Tech
+356, ,1,14,14,Jason Peter,Panthers,DT,Nebraska
+357, ,1,16,16,Kevin Dyson,Oilers,WR,Utah
+358, ,1,18,18,Robert Edwards,Patriots,RB,Georgia
+359, ,1,20,20,Terry Fair,Lions,DB,Tennessee
+360, ,1,22,22,Tebucky Jones,Patriots,DB,Syracuse
+361, ,1,24,24,Shaun Williams,Giants,DB,UCLA
+362, ,1,26,26,Alan Faneca,Steelers, G,Louisiana State
+363, ,1,28,28,R.W. McQuarters,49ers,DB,Oklahoma State
+364, ,1,30,30,Marcus Nash,Broncos,WR,Tennessee
+365, ,1,2,2,Darrell Russell,Raiders,DT,USC
+366, ,1,4,4,Peter Boulware,Ravens,DE,Florida State
+367, ,1,6,6,Walter Jones,Seahawks, T,Florida State
+368, ,1,8,8,James Farrior,Jets,LB,Virginia
+369, ,1,10,10,Chris Naeole,Saints, G,Colorado
+370, ,1,12,12,Warrick Dunn,Buccaneers,RB,Florida State
+371, ,1,14,14,Reinard Wilson,Bengals,DE,Florida State
+372, ,1,16,16,Reidel Anthony,Buccaneers,WR,Florida
+373, ,1,18,18,Kenny Holmes,Oilers,DE,Miami (FL)
+374, ,1,20,20,Dwayne Rudd,Vikings,LB,Alabama
+375, ,1,22,22,David LaFleur,Cowboys,TE,Louisiana State
+376, ,1,24,24,Chad Scott,Steelers,DB,Maryland
+377, ,1,26,26,Jim Druckenmiller,49ers,QB,Virginia Tech
+378, ,1,28,28,Trevor Pryce,Broncos,DE,Clemson
+379, ,1,30,30,Ross Verba,Packers, G,Iowa
+380, ,1,2,2,Kevin Hardy,Jaguars,LB,Illinois
+381, ,1,4,4,Jonathan Ogden,Ravens, T,UCLA
+382, ,1,6,6,Lawrence Phillips,Rams,RB,Nebraska
+383, ,1,8,8,Tim Biakabutuka,Panthers,RB,Michigan
+384, ,1,10,10,Willie Anderson,Bengals, T,Auburn
+385, ,1,12,12,Regan Upshaw,Buccaneers,DE,California
+386, ,1,14,14,Eddie George,Oilers,RB,Ohio State
+387, ,1,16,16,Duane Clemons,Vikings,DE,California
+388, ,1,18,18,Eddie Kennison,Rams,WR,Louisiana State
+389, ,1,20,20,Daryl Gardener,Dolphins,DT,Baylor
+390, ,1,22,22,Marcus Jones,Buccaneers,DT,North Carolina
+391, ,1,24,24,Eric Moulds,Bills,WR,Mississippi State
+392, ,1,26,26,Ray Lewis,Ravens,LB,Miami (FL)
+393, ,1,28,28,Jerome Woods,Chiefs,DB,Memphis
+394, ,1,30,30,Andre Johnson,Redskins, T,Penn State
+395, ,1,2,2,Tony Boselli,Jaguars, T,USC
+396, ,1,4,4,Michael Westbrook,Redskins,WR,Colorado
+397, ,1,6,6,Kevin Carter,Rams,DE,Florida
+398, ,1,8,8,Joey Galloway,Seahawks,WR,Ohio State
+399, ,1,10,10,J.J. Stokes,49ers,WR,UCLA
+400, ,1,12,12,Warren Sapp,Buccaneers,DT,Miami (FL)
+401, ,1,14,14,Ruben Brown,Bills, G,Pittsburgh
+402, ,1,16,16,Hugh Douglas,Jets,DE,Central State (OH)
+403, ,1,18,18,Napoleon Kaufman,Raiders,RB,Washington
+404, ,1,20,20,Luther Elliss,Lions,DE,Utah
+405, ,1,22,22,Tyrone Poole,Panthers,DB,Fort Valley State
+406, ,1,24,24,Korey Stringer,Vikings, T,Ohio State
+407, ,1,26,26,Devin Bush,Falcons,DB,Florida State
+408, ,1,28,28,Derrick Brooks,Buccaneers,LB,Florida State
+409, ,1,30,30,Craig Powell,Browns,LB,Ohio State
+410, ,1,32,32,Craig Newsome,Packers,DB,Arizona State
+411, ,1,2,2,Marshall Faulk,Colts,RB,San Diego State
+412, ,1,4,4,Willie McGinest,Patriots,DE,USC
+413, ,1,6,6,Trent Dilfer,Buccaneers,QB,Fresno State
+414, ,1,8,8,Sam Adams,Seahawks,DT,Texas A&M
+415, ,1,10,10,Jamir Miller,Cardinals,LB,UCLA
+416, ,1,12,12,Aaron Glenn,Jets,DB,Texas A&M
+417, ,1,14,14,Bernard Williams,Eagles, T,Georgia
+418, ,1,16,16,Aaron Taylor,Packers, T,Notre Dame
+419, ,1,18,18,DeWayne Washington,Vikings,DB,North Carolina State
+420, ,1,20,20,Tim Bowens,Dolphins,DT,Mississippi
+421, ,1,22,22,Rob Frederickson,Raiders,LB,Michigan State
+422, ,1,24,24,Thomas Lewis,Giants,WR,Indiana
+423, ,1,26,26,Henry Ford,Oilers,DE,Arkansas
+424, ,1,28,28,William Floyd,49ers,RB,Florida State
+425,1993,1,1,1,Drew Bledsoe,Patriots,QB,Washington State
+426, ,1,3,3,Garrison Hearst,Cardinals,RB,Georgia
+427, ,1,5,5,John Copeland,Bengals,DE,Alabama
+428, ,1,7,7,Curtis Conway,Bears,WR,USC
+429, ,1,9,9,Lincoln Kennedy,Falcons, T,Washington
+430, ,1,11,11,Dan Williams,Broncos,DE,Toledo
+431, ,1,13,13,Brad Hopkins,Oilers, T,Illinois
+432, ,1,15,15,Wayne Simmons,Packers,LB,Clemson
+433, ,1,17,17,Tom Carter,Redskins,DB,Notre Dame
+434, ,1,19,19,Lester Holmes,Eagles, G,Jackson State
+435, ,1,21,21,Robert Smith,Vikings,RB,Ohio State
+436, ,1,23,23,Deon Figures,Steelers,DB,Colorado
+437, ,1,25,25,O.J. McDuffie,Dolphins,WR,Penn State
+438, ,1,27,27,Todd Kelly,49ers,DE,Tennessee
+439, ,1,29,29,George Teague,Packers,DB,Alabama
+440,1992,1,1,1,Steve Emtman,Colts,DT,Washington
+441, ,1,3,3,Sean Gilbert,Rams,DT,Pittsburgh
+442, ,1,5,5,Terrell Buckley,Packers,DB,Florida State
+443, ,1,7,7,Troy Vincent,Dolphins,DB,Wisconsin
+444, ,1,9,9,Tommy Vardell,Browns,RB,Stanford
+445, ,1,11,11,Leon Searcy,Steelers, T,Miami (FL)
+446, ,1,13,13,Eugene Chung,Patriots, T,Virginia Tech
+447, ,1,15,15,Johnny Mitchell,Jets,TE,Nebraska
+448, ,1,17,17,Kevin Smith,Cowboys,DB,Texas A&M
+449, ,1,19,19,Tony Smith,Falcons,RB,Southern Mississippi
+450, ,1,21,21,Vaughn Dunbar,Saints,RB,Indiana
+451, ,1,23,23,Chris Mims,Chargers,DE,Tennessee
+452, ,1,25,25,Tommy Maddox,Broncos,QB,UCLA
+453, ,1,27,27,John Fina,Bills, T,Arizona
+454,1991,1,1,1,Russell Maryland,Cowboys,DT,Miami (FL)
+455, ,1,3,3,Bruce Pickens,Falcons,DB,Nebraska
+456, ,1,5,5,Todd Lyght,Rams,DB,Notre Dame
+457, ,1,7,7,Charles McRae,Buccaneers, T,Tennessee
+458, ,1,9,9,Stanley Richard,Chargers,DB,Texas
+459, ,1,11,11,Pat Harlow,Patriots, T,USC
+460, ,1,13,13,Mike Pritchard,Falcons,WR,Colorado
+461, ,1,15,15,Huey Richardson,Steelers,LB,Florida
+462, ,1,17,17,Bobby Wilson,Redskins,DT,Michigan State
+463, ,1,19,19,Vinnie Clark,Packers,DB,Ohio State
+464, ,1,21,21,Harvey Williams,Chiefs,RB,Louisiana State
+465, ,1,23,23,Randal Hill,Dolphins,WR,Miami (FL)
+466, ,1,25,25,Ted Washington,49ers,DT,Louisville
+467, ,1,27,27,Jarrod Bunch,Giants,RB,Michigan
+468,1990,1,1,1,Jeff George,Colts,QB,Illinois
+469, ,1,3,3,Cortez Kennedy,Seahawks,DT,Miami (FL)
+470, ,1,5,5,Junior Seau,Chargers,LB,USC
+471, ,1,7,7,Andre Ware,Lions,QB,Houston
+472, ,1,9,9,Richmond Webb,Dolphins, T,Texas A&M
+473, ,1,11,11,Anthony Smith,Raiders,DE,Arizona
+474, ,1,13,13,Percy Snow,Chiefs,LB,Michigan State
+475, ,1,15,15,Lamar Lathon,Oilers,LB,Houston
+476, ,1,17,17,Emmitt Smith,Cowboys,RB,Florida
+477, ,1,19,19,Darrell Thompson,Packers,RB,Minnesota
+478, ,1,21,21,Eric Green,Steelers,TE,Liberty
+479, ,1,23,23,Bern Brostek,Rams, C,Washington
+480, ,1,25,25,Dexter Carter,49ers,RB,Florida State
+481, ,1,0,0,Timm Rosenbach,Cardinals,QB,Washington State
+482,1989,1,1,1,Troy Aikman,Cowboys,QB,UCLA
+483, ,1,3,3,Barry Sanders,Lions,RB,Oklahoma State
+484, ,1,5,5,Deion Sanders,Falcons,DB,Florida State
+485, ,1,7,7,Tim Worley,Steelers,RB,Georgia
+486, ,1,9,9,Sammie Smith,Dolphins,RB,Florida State
+487, ,1,11,11,Donnell Woolford,Bears,DB,Clemson
+488, ,1,13,13,Eric Metcalf,Browns,RB,Texas
+489, ,1,15,15,Andy Heck,Seahawks, T,Notre Dame
+490, ,1,17,17,Joe Wolf,Cardinals, G,Boston College
+491, ,1,19,19,Wayne Martin,Saints,DE,Arkansas
+492, ,1,21,21,Bill Hawkins,Rams,DE,Miami (FL)
+493, ,1,23,23,David Williams,Oilers, T,Florida
+494, ,1,25,25,Louis Oliver,Dolphins,DB,Florida
+495, ,1,27,27,Shawn Collins,Falcons,WR,Northern Arizona
+496,1988,1,1,1,Aundray Bruce,Falcons,LB,Auburn
+497, ,1,3,3,Bennie Blades,Lions,DB,Miami (FL)
+498, ,1,5,5,Rickey Dixon,Bengals,DB,Oklahoma
+499, ,1,7,7,Sterling Sharpe,Packers,WR,South Carolina
+500, ,1,9,9,Terry McDaniel,Raiders,DB,Tennessee
+501, ,1,11,11,Michael Irvin,Cowboys,WR,Miami (FL)
+502, ,1,13,13,Keith Jackson,Eagles,TE,Oklahoma
+503, ,1,15,15,Anthony Miller,Chargers,WR,Tennessee
+504, ,1,17,17,John Stephens,Patriots,RB,Northwestern State (LA)
+505, ,1,19,19,Randall McDaniel,Vikings, G,Arizona State
+506, ,1,21,21,Clifford Charlton,Browns,LB,Florida
+507, ,1,23,23,Brad Muster,Bears,RB,Stanford
+508, ,1,25,25,Scott Davis,Raiders,DE,Illinois
+509, ,1,27,27,Wendell Davis,Bears,WR,Louisiana State
+510,1987,1,1,1,Vinny Testaverde,Buccaneers,QB,Miami (FL)
+511, ,1,3,3,Alonzo Highsmith,Oilers,RB,Miami (FL)
+512, ,1,5,5,Mike Junkin,Browns,LB,Duke
+513, ,1,7,7,Reggie Rogers,Lions,DE,Washington
+514, ,1,9,9,Jerome Brown,Eagles,DT,Miami (FL)
+515, ,1,11,11,Shawn Knight,Saints,DT,Brigham Young
+516, ,1,13,13,Chris Miller,Falcons,QB,Oregon
+517, ,1,15,15,John Clay,Raiders, T,Missouri
+518, ,1,17,17,Jason Buck,Bengals,DE,Brigham Young
+519, ,1,19,19,Paul Palmer,Chiefs,RB,Temple
+520, ,1,21,21,Roger Vick,Jets,RB,Texas A&M
+521, ,1,23,23,Bruce Armstrong,Patriots, T,Louisville
+522, ,1,25,25,Terrence Flagler,49ers,RB,Clemson
+523, ,1,27,27,Ricky Nattiel,Broncos,WR,Florida
+524,1986,1,1,1,Bo Jackson,Buccaneers,RB,Auburn
+525, ,1,3,3,Jim Everett,Oilers,QB,Purdue
+526, ,1,5,5,Anthony Bell,Cardinals,LB,Michigan State
+527, ,1,7,7,Brian Jozwiak,Chiefs, T,West Virginia
+528, ,1,9,9,John Rienstra,Steelers, G,Temple
+529, ,1,11,11,Joe Kelly,Bengals,LB,Washington
+530, ,1,13,13,James Fitzpatrick,Chargers, T,USC
+531, ,1,15,15,John L. Williams,Seahawks,RB,Florida
+532, ,1,17,17,Tim Green,Falcons,LB,Syracuse
+533, ,1,19,19,Eric Dorsey,Giants,DE,Notre Dame
+534, ,1,21,21,Tim McGee,Bengals,WR,Tennessee
+535, ,1,23,23,Mike Schad,Rams, T,Queens University
+536, ,1,25,25,Rod Jones,Buccaneers,DB,Southern Methodist
+537, ,1,27,27,Neal Anderson,Bears,RB,Florida
+538,1985,1,1,1,Bruce Smith,Bills,DE,Virginia Tech
+539, ,1,3,3,Ray Childress,Oilers,DE,Texas A&M
+540, ,1,5,5,Duane Bickett,Colts,LB,USC
+541, ,1,7,7,Ken Ruettgers,Packers, T,USC
+542, ,1,9,9,Kevin Allen,Eagles, T,Indiana
+543, ,1,11,11,Richard Johnson,Oilers,DB,Wisconsin
+544, ,1,13,13,Eddie Brown,Bengals,WR,Miami (FL)
+545, ,1,15,15,Ethan Horton,Chiefs,RB,North Carolina
+546, ,1,17,17,Kevin Brooks,Cowboys,DE,Michigan
+547, ,1,19,19,George Adams,Giants,RB,Kentucky
+548, ,1,21,21,Jerry Gray,Rams,DB,Texas
+549, ,1,23,23,Jessie Hester,Raiders,WR,Florida State
+550, ,1,25,25,Emanuel King,Bengals,DE,Alabama
+551, ,1,27,27,Lorenzo Hampton,Dolphins,RB,Florida
+552,1984u,1,1,1,Steve Young,Buccaneers,QB,Brigham Young
+553, ,1,3,3,Gary Zimmerman,Giants, G,Oregon
+554, ,1,5,5,Mark Adickes,Chiefs, T,Baylor
+555, ,1,7,7,Wayne Peace,Bengals,QB,Florida
+556, ,1,9,9,Joey Jones,Falcons,WR,Alabama
+557, ,1,11,11,Kevin Mack,Browns,RB,Clemson
+558, ,1,13,13,Allanda Smith,Vikings,DB,Texas Christian
+559, ,1,15,15,Vaughan Johnson,Saints,LB,North Carolina State
+560, ,1,17,17,Mike Ruether,Cardinals, C,Texas
+561, ,1,19,19,Freddie Gilbert,Broncos,DE,Georgia
+562, ,1,21,21,William Fuller,Rams,DE,North Carolina
+563, ,1,23,23,Duane Gunn,Steelers,WR,Indiana
+564, ,1,25,25,Todd Fowler,Cowboys,TE,Stephen F. Austin
+565, ,1,27,27,Tony Zendejas,Redskins, K,Nevada
+566,1984,1,1,1,Irving Fryar,Patriots,WR,Nebraska
+567, ,1,3,3,Carl Banks,Giants,LB,Michigan State
+568, ,1,5,5,Bill Maas,Chiefs,DT,Pittsburgh
+569, ,1,7,7,Ricky Hunley,Bengals,LB,Arizona
+570, ,1,9,9,Rick Bryan,Falcons,DT,Oklahoma
+571, ,1,11,11,Wilber Marshall,Bears,LB,Florida
+572, ,1,13,13,Keith Millard,Vikings,DE,Washington State
+573, ,1,15,15,Ron Faurot,Jets,DE,Arkansas
+574, ,1,17,17,Clyde Duncan,Cardinals,WR,Tennessee
+575, ,1,19,19,Ron Solt,Colts, G,Maryland
+576, ,1,21,21,John Alt,Chiefs, T,Iowa
+577, ,1,23,23,Louis Lipps,Steelers,WR,Southern Mississippi
+578, ,1,25,25,Billy Cannon Jr.,Cowboys,LB,Texas A&M
+579, ,1,27,27,William Roberts,Giants, T,Ohio State
+580,1983,1,1,1,John Elway,Colts,QB,Stanford
+581, ,1,3,3,Curt Warner,Seahawks,RB,Penn State
+582, ,1,5,5,Billy Ray Smith,Chargers,LB,Arkansas
+583, ,1,7,7,Todd Blackledge,Chiefs,QB,Penn State
+584, ,1,9,9,Bruce Matthews,Oilers, G,USC
+585, ,1,11,11,Tim Lewis,Packers,DB,Pittsburgh
+586, ,1,13,13,James Jones,Lions,RB,Florida
+587, ,1,15,15,Tony Eason,Patriots,QB,Illinois
+588, ,1,17,17,Leonard Smith,Cardinals,DB,McNeese State
+589, ,1,19,19,Joey Browner,Vikings,DB,USC
+590, ,1,21,21,Gabriel Rivera,Steelers,DT,Texas Tech
+591, ,1,23,23,Jim Jeffcoat,Cowboys,DE,Arizona State
+592, ,1,25,25,Dave Rimington,Bengals, C,Nebraska
+593, ,1,27,27,Dan Marino,Dolphins,QB,Pittsburgh
+594,1982,1,1,1,Kenneth Sims,Patriots,DT,Texas
+595, ,1,3,3,Chip Banks,Browns,LB,USC
+596, ,1,5,5,Jim McMahon,Bears,QB,Brigham Young
+597, ,1,7,7,Darrin Nelson,Vikings,RB,Stanford
+598, ,1,9,9,Gerald Riggs,Falcons,RB,Arizona State
+599, ,1,11,11,Anthony Hancock,Chiefs,WR,Tennessee
+600, ,1,13,13,Lindsay Scott,Saints,WR,Georgia
+601, ,1,15,15,Jimmy Williams,Lions,LB,Nebraska
+602, ,1,17,17,Sean Farrell,Buccaneers, G,Penn State
+603, ,1,19,19,Perry Tuttle,Bills,WR,Clemson
+604, ,1,21,21,Gerald Willhite,Broncos,RB,San Jose State
+605, ,1,23,23,Bob Crable,Jets,LB,Notre Dame
+606, ,1,25,25,Rod Hill,Cowboys,DB,Kentucky State
+607, ,1,27,27,Lester Williams,Patriots,DT,Miami (FL)
+608,1981,1,1,1,George Rogers,Saints,RB,South Carolina
+609, ,1,3,3,Freeman McNeil,Jets,RB,UCLA
+610, ,1,5,5,E.J. Junior,Cardinals,LB,Alabama
+611, ,1,7,7,Hugh Green,Buccaneers,LB,Pittsburgh
+612, ,1,9,9,Mel Owens,Rams,LB,Michigan
+613, ,1,11,11,Keith Van Horne,Bears, T,USC
+614, ,1,13,13,David Overstreet,Dolphins,RB,Oklahoma
+615, ,1,15,15,Dennis Smith,Broncos,DB,USC
+616, ,1,17,17,Keith Gary,Steelers,DE,Oklahoma
+617, ,1,19,19,Brian Holloway,Patriots, T,Stanford
+618, ,1,21,21,Ted Watts,Raiders,DB,Texas Tech
+619, ,1,23,23,Curt Marsh,Raiders, T,Washington
+620, ,1,25,25,Bobby Butler,Falcons,DB,Florida State
+621, ,1,27,27,Leonard Mitchell,Eagles,DE,Houston
+622,1980,1,1,1,Billy Sims,Lions,RB,Oklahoma
+623, ,1,3,3,Anthony Munoz,Bengals, T,USC
+624, ,1,5,5,Curtis Dickey,Colts,RB,Texas A&M
+625, ,1,7,7,Junior Miller,Falcons,TE,Nebraska
+626, ,1,9,9,Doug Martin,Vikings,DT,Washington
+627, ,1,11,11,Brad Budde,Chiefs, G,USC
+628, ,1,13,13,Earl Cooper,49ers,RB,Rice
+629, ,1,15,15,Marc Wilson,Raiders,QB,Brigham Young
+630, ,1,17,17,Johnnie Johnson,Rams,DB,Texas
+631, ,1,19,19,Otis Wilson,Bears,LB,Louisville
+632, ,1,21,21,Don McNeal,Dolphins,DB,Alabama
+633, ,1,23,23,Roynell Young,Eagles,DB,Alcorn State
+634, ,1,25,25,Vegas Ferguson,Patriots,RB,Notre Dame
+635, ,1,27,27,Charles White,Browns,RB,USC
+636,1979,1,1,1,Tom Cousineau,Bills,LB,Ohio State
+637, ,1,3,3,Jack Thompson,Bengals,QB,Washington State
+638, ,1,5,5,Jerry Butler,Bills,WR,Clemson
+639, ,1,7,7,Phil Simms,Giants,QB,Morehead State
+640, ,1,9,9,Al Harris,Bears,DE,Arizona State
+641, ,1,11,11,Russell Erxleben,Saints, K,Texas
+642, ,1,13,13,Kellen Winslow,Chargers,TE,Missouri
+643, ,1,15,15,Eddie Lee Ivery,Packers,RB,Georgia Tech
+644, ,1,17,17,Don Smith,Falcons,DE,Miami (FL)
+645, ,1,19,19,George Andrews,Rams,LB,Nebraska
+646, ,1,21,21,Jerry Robinson,Eagles,LB,UCLA
+647, ,1,23,23,Steve Fuller,Chiefs,QB,Clemson
+648, ,1,25,25,Rick Sanford,Patriots,DB,South Carolina
+649, ,1,27,27,Robert Shaw,Cowboys, C,Tennessee
+650,1978,1,1,1,Earl Campbell,Oilers,RB,Texas
+651, ,1,3,3,Wes Chandler,Saints,WR,Florida
+652, ,1,5,5,Terry Miller,Bills,RB,Oklahoma State
+653, ,1,7,7,Ken MacAfee,49ers,TE,Notre Dame
+654, ,1,9,9,Keith Simpson,Seahawks,DB,Memphis State
+655, ,1,11,11,Luther Bradley,Lions,DB,Notre Dame
+656, ,1,13,13,Mike Kenn,Falcons, T,Michigan
+657, ,1,15,15,Steve Little,Cardinals, K,Arkansas
+658, ,1,17,17,Doug Williams,Buccaneers,QB,Grambling State
+659, ,1,19,19,Ken Greene,Cardinals,DB,Washington State
+660, ,1,21,21,Randy Holloway,Vikings,DE,Pittsburgh
+661, ,1,23,23,Ozzie Newsome,Browns,TE,Alabama
+662, ,1,25,25,Reese McCall,Colts,TE,Auburn
+663, ,1,27,27,Don Latimer,Broncos,DT,Miami (FL)
+664,1977,1,1,1,Ricky Bell,Buccaneers,RB,USC
+665, ,1,3,3,Eddie Edwards,Bengals,DE,Miami (FL)
+666, ,1,5,5,Gary Jeter,Giants,DT,USC
+667, ,1,7,7,Joe Campbell,Saints,DE,Maryland
+668, ,1,9,9,Mike Butler,Packers,DE,Kansas
+669, ,1,11,11,Morris Towns,Oilers, T,Missouri
+670, ,1,13,13,A.J. Duhe,Dolphins,DE,Louisiana State
+671, ,1,15,15,Ted Albrecht,Bears, T,California
+672, ,1,17,17,Robert Jackson,Browns,LB,Texas A&M
+673, ,1,19,19,Steve Pisarkiewicz,Cardinals,QB,Missouri
+674, ,1,21,21,Robin Cole,Steelers,LB,New Mexico
+675, ,1,23,23,Bob Brudzinski,Rams,LB,Ohio State
+676, ,1,25,25,Stanley Morgan,Patriots,WR,Tennessee
+677, ,1,27,27,Tommy Kramer,Vikings,QB,Rice
+678,1976,1,1,1,Lee Roy Selmon,Buccaneers,DE,Oklahoma
+679, ,1,3,3,Chuck Muncie,Saints,RB,California
+680, ,1,5,5,Mike Haynes,Patriots,DB,Arizona State
+681, ,1,7,7,Mike Pruitt,Browns,RB,Purdue
+682, ,1,9,9,Bubba Bean,Falcons,RB,Texas A&M
+683, ,1,11,11,Billy Brooks,Bengals,WR,Oklahoma
+684, ,1,13,13,Troy Archer,Giants,DE,Colorado
+685, ,1,15,15,Tom Glassic,Broncos, G,Virginia
+686, ,1,17,17,Larry Gordon,Dolphins,LB,Arizona State
+687, ,1,19,19,Kim Bokamper,Dolphins,DE,San Jose State
+688, ,1,21,21,Tim Fox,Patriots,DB,Ohio State
+689, ,1,23,23,Mark Koncar,Packers, T,Colorado
+690, ,1,25,25,James White,Vikings,DT,Oklahoma State
+691, ,1,27,27,Aaron Kyle,Cowboys,DB,Wyoming
+692,1975,1,1,1,Steve Bartkowski,Falcons,QB,California
+693, ,1,3,3,Ken Huff,Colts, G,North Carolina
+694, ,1,5,5,Mack Mitchell,Browns,DE,Houston
+695, ,1,7,7,Larry Burton,Saints,WR,Purdue
+696, ,1,9,9,Mike Fanning,Rams,DT,Notre Dame
+697, ,1,11,11,Dennis Harrah,Rams, T,Miami (FL)
+698, ,1,13,13,Lynn Boden,Lions, G,South Dakota State
+699, ,1,15,15,Don Hardeman,Oilers,RB,Texas A&I
+700, ,1,17,17,Louie Wright,Broncos,DB,San Jose State
+701, ,1,19,19,Tom Ruud,Bills,LB,Nebraska
+702, ,1,21,21,Tim Gray,Cardinals,DB,Texas A&M
+703, ,1,23,23,Darryl Carlton,Dolphins, T,Tampa
+704, ,1,25,25,Mark Mullaney,Vikings,DE,Colorado State
+705,1974,1,1,1,Ed (Too Tall) Jones,Cowboys,DE,Tennessee State
+706, ,1,3,3,John Hicks,Giants, G,Ohio State
+707, ,1,5,5,John Dutton,Colts,DE,Nebraska
+708, ,1,7,7,J.V. Cain,Cardinals,TE,Colorado
+709, ,1,9,9,Wilbur Jackson,49ers,RB,Alabama
+710, ,1,11,11,John Cappelletti,Rams,RB,Penn State
+711, ,1,13,13,Rick Middleton,Saints,LB,Ohio State
+712, ,1,15,15,Don Goode,Chargers,LB,Kansas
+713, ,1,17,17,Fred McNeill,Vikings,LB,UCLA
+714, ,1,19,19,Henry Lawrence,Raiders, T,Florida A&M
+715, ,1,21,21,Lynn Swann,Steelers,WR,USC
+716, ,1,23,23,Bill Kollar,Bengals,DT,Montana State
+717, ,1,25,25,Steve Riley,Vikings, T,USC
+718,1973,1,1,1,John Matuszak,Oilers,DE,Tampa
+719, ,1,3,3,Jerry Sisemore,Eagles, T,Texas
+720, ,1,5,5,Dave Butz,Cardinals,DT,Purdue
+721, ,1,7,7,Paul Seymour,Bills,TE,Michigan
+722, ,1,9,9,Otis Armstrong,Broncos,RB,Purdue
+723, ,1,11,11,Sam Cunningham,Patriots,RB,USC
+724, ,1,13,13,Burgess Owens,Jets,DB,Miami (FL)
+725, ,1,15,15,Isaac Curtis,Bengals,WR,San Diego State
+726, ,1,17,17,Earnest Price,Lions,DE,Texas A&I
+727, ,1,19,19,Darryl Stingley,Patriots,WR,Purdue
+728, ,1,21,21,Barry Smith,Packers,WR,Florida State
+729, ,1,23,23,Ray Guy,Raiders, P,Southern Mississippi
+730, ,1,25,25,Johnny Rodgers,Chargers,WR,Nebraska
+731,1972,1,1,1,Walt Patulski,Bills,DE,Notre Dame
+732, ,1,3,3,Lionel Antoine,Bears, T,Southern Illinois
+733, ,1,5,5,Riley Odoms,Broncos,TE,Houston
+734, ,1,7,7,Willie Buchanon,Packers,DB,San Diego State
+735, ,1,9,9,Jerome Barkum,Jets,WR,Jackson State
+736, ,1,11,11,Jerry Tagge,Packers,QB,Nebraska
+737, ,1,13,13,Franco Harris,Steelers,RB,Penn State
+738, ,1,15,15,Clarence Ellis,Falcons,DB,Notre Dame
+739, ,1,17,17,Eldridge Small,Giants,DB,Texas A&I
+740, ,1,19,19,Terry Beasley,49ers,WR,Auburn
+741, ,1,21,21,Mike Siani,Raiders,WR,Villanova
+742, ,1,23,23,Jeff Kinney,Chiefs,RB,Nebraska
+743, ,1,25,25,Mike Kadish,Dolphins,DT,Notre Dame
+744,1971,1,1,1,Jim Plunkett,Patriots,QB,Stanford
+745, ,1,3,3,Dan Pastorini,Oilers,QB,Santa Clara
+746, ,1,5,5,Richard Harris,Eagles,DE,Grambling State
+747, ,1,7,7,Joe Profit,Falcons,RB,Northeast Louisiana
+748, ,1,9,9,John Brockington,Packers,RB,Ohio State
+749, ,1,11,11,Joe Moore,Bears,RB,Missouri
+750, ,1,13,13,Leon Burns,Chargers,RB,Cal State-Long Beach
+751, ,1,15,15,Vernon Holland,Bengals, T,Tennessee State
+752, ,1,17,17,Norm Thompson,Cardinals,DB,Utah
+753, ,1,19,19,Jack Tatum,Raiders,DB,Ohio State
+754, ,1,21,21,Bob Bell,Lions,DT,Cincinnati
+755, ,1,23,23,Tim Anderson,49ers,DB,Ohio State
+756, ,1,25,25,Tody Smith,Cowboys,DE,USC
+757,1970,1,1,1,Terry Bradshaw,Steelers,QB,Louisiana Tech
+758, ,1,3,3,Mike Phipps,Browns,QB,Purdue
+759, ,1,5,5,Al Cowlings,Bills,DE,USC
+760, ,1,7,7,Mike Reid,Bengals,DT,Penn State
+761, ,1,9,9,Cedric Hardman,49ers,DE,North Texas State
+762, ,1,11,11,Bobby Anderson,Broncos,RB,Colorado
+763, ,1,13,13,Jim Files,Giants,LB,Oklahoma
+764, ,1,15,15,Walker Gillette,Chargers,WR,Richmond
+765, ,1,17,17,Bruce Taylor,49ers,DB,Boston University
+766, ,1,19,19,Steve Owens,Lions,RB,Oklahoma
+767, ,1,21,21,Bob McKay,Browns, T,Texas
+768, ,1,23,23,Duane Thomas,Cowboys,RB,West Texas State
+769, ,1,25,25,John Ward,Vikings, T,Oklahoma State
+770,1969,1,1,1,O.J. Simpson,Bills,RB,USC
+771, ,1,3,3,Leroy Keyes,Eagles,RB,Purdue
+772, ,1,5,5,Greg Cook,Bengals,QB,Cincinnati
+773, ,1,7,7,Ted Kwalick,49ers,TE,Penn State
+774, ,1,9,9,Marty Domres,Chargers,QB,Columbia
+775, ,1,11,11,Bill Stanfill,Dolphins,DE,Georgia
+776, ,1,13,13,Fred Dryer,Giants,DE,San Diego State
+777, ,1,15,15,Ron Protchard,Oilers,LB,Arizona State
+778, ,1,17,17,John Shinners,Saints, G,Xavier
+779, ,1,19,19,Roger Wehrli,Cardinals,DB,Missouri
+780, ,1,21,21,Bob Klein,Rams,TE,USC
+781, ,1,23,23,James Marsalis,Chiefs,DB,Tennessee State
+782, ,1,25,25,Eddie Hinton,Colts,WR,Oklahoma
+783,1968,1,1,1,Ron Yary,Vikings, T,USC
+784, ,1,3,3,Claude Humphrey,Falcons,DE,Tennessee State
+785, ,1,5,5,Fred Carr,Packers,LB,Texas-El Paso
+786, ,1,7,7,Kevin Hardy,Saints,DE,Notre Dame
+787, ,1,9,9,Haven Moses,Bills,WR,San Diego State
+788, ,1,11,11,Greg Landry,Lions,QB,Massachusetts
+789, ,1,13,13,MacArthur Lane,Cardinals,RB,Utah State
+790, ,1,15,15,Forrest Blue,49ers, C,Auburn
+791, ,1,17,17,Lee White,Jets,RB,Weber State
+792, ,1,19,19,Mo Moorman,Chiefs, G,Texas A&M
+793, ,1,21,21,Marvin Upshaw,Browns,DE,Trinity (TX)
+794, ,1,23,23,John Williams,Colts, T,Minnesota
+795, ,1,25,25,Eldridge Dickey,Raiders,QB,Tennessee State
+796, ,1,27,27,Doug Crusan,Dolphins, T,Indiana
+797, ,1,2,2,Clint Jones,Vikings,RB,Michigan State
+798, ,1,4,4,Bob Griese,Dolphins,QB,Purdue
+799, ,1,6,6,Floyd Little,Broncos,RB,Syracuse
+800, ,1,8,8,Gene Washington,Vikings,WR,Michigan State
+801, ,1,10,10,Loyd Phillips,Bears,DE,Arkansas
+802, ,1,12,12,Paul Seiler,Jets, G,Notre Dame
+803, ,1,14,14,Ronald Billingsley,Chargers,DT,Wyoming
+804, ,1,16,16,Dave Williams,Cardinals,WR,Washington
+805, ,1,18,18,Bob Matheson,Browns,LB,Duke
+806, ,1,20,20,James Detwiler,Colts,RB,Michigan
+807, ,1,22,22,John Pitts,Bills,WR,Arizona State
+808, ,1,24,24,Eugene Trosch,Chiefs,DT,Miami (FL)
+809, ,1,26,26,Leslie Kelly,Saints,RB,Alabama
+810, ,1,1,1,Jim Grabowski,Dolphins,RB,Illinois
+811, ,1,3,3,Dick Leftridge,Steelers,RB,West Virginia
+812, ,1,5,5,John Niland,Cowboys, G,Iowa
+813, ,1,7,7,Jerry Shary,Vikings, T,Purdue
+814, ,1,9,9,Jim Grabowski,Packers,RB,Illinois
+815, ,1,11,11,Stan Hindman,49ers, T,Mississippi
+816, ,1,13,13,Gale Gillingham,Packers, T,Minnesota
+817, ,1,15,15,Sam Ball,Colts, T,Kentucky
+818,1965,1,1,1,Tucker Frederickson,Giants,RB,Auburn
+819, ,1,3,3,Dick Butkus,Bears,LB,Illinois
+820, ,1,5,5,Craig Morton,Cowboys,QB,California
+821, ,1,7,7,Donny Anderson,Packers,RB,Texas Tech
+822, ,1,9,9,Clancy Williams,Rams,RB,Washington State
+823, ,1,11,11,Tom Nowatzke,Lions,RB,Indiana
+824, ,1,13,13,George Donnelly,49ers, B,Illinois
+825,1964,1,1,1,Dave Parks,49ers,WR,Texas Tech
+826, ,1,3,3,Charley Taylor,Redskins,RB,Arizona State
+827, ,1,5,5,Pete Beathard,Lions,QB,USC
+828, ,1,7,7,Bill Munson,Rams,QB,Utah State
+829, ,1,9,9,Ken Kortas,Cardinals, T,Louisville
+830, ,1,11,11,Paul Warfield,Browns,WR,Ohio State
+831, ,1,13,13,Lloyd Voss,Packers, T,Nebraska
+832,1963,1,1,1,Terry Baker,Rams,QB,Oregon State
+833, ,1,3,3,Jim Dunaway,Vikings, T,Mississippi
+834, ,1,5,5,Bob Vogel,Colts, T,Ohio State
+835, ,1,7,7,Pat Richter,Redskins,WR,Wisconsin
+836, ,1,9,9,Tom Hutchinson,Browns, E,Kentucky
+837, ,1,11,11,Dave Behrman,Bears, C,Michigan State
+838, ,1,13,13,Don Brumm,Cardinals,DE,Purdue
+839,1962,1,1,1,Ernie Davis,Redskins,RB,Syracuse
+840, ,1,3,3,Merlin Olsen,Rams,DT,Utah State
+841, ,1,5,5,Bob Ferguson,Steelers, B,Ohio State
+842, ,1,7,7,Ronnie Bull,Bears,RB,Baylor
+843, ,1,9,9,Wendell Harris,Colts, B,Louisiana State
+844, ,1,11,11,Leroy Jackson,Browns, B,Western Illinois
+845, ,1,13,13,Jerry Hillebrand,Giants, E,Colorado
+846,1961,1,1,1,Tommy Mason,Vikings,RB,Tulane
+847, ,1,3,3,Joe Rutgens,Redskins, T,Illinois
+848, ,1,5,5,Mike Ditka,Bears,TE,Pittsburgh
+849, ,1,7,7,Tom Matte,Colts,RB,Ohio State
+850, ,1,9,9,Bernie Casey,49ers, B,Bowling Green
+851, ,1,11,11,Billy Kilmer,49ers, B,UCLA
+852, ,1,13,13,Bob Lilly,Cowboys,DT,Texas Christian
+853,1960,1,1,1,Billy Cannon,Rams,RB,Louisiana State
+854, ,1,3,3,Johnny Robinson,Lions,DB,Louisiana State
+855, ,1,5,5,Tom Moore,Packers,RB,Vanderbilt
+856, ,1,7,7,Roger Davis,Bears, G,Syracuse
+857, ,1,9,9,Ron Burton,Eagles,HB,Northwestern
+858, ,1,11,11,Monty Stickles,49ers,WR,Notre Dame
+859,1959,1,1,1,Randy Duncan,Packers,QB,Iowa
+860, ,1,3,3,Billy Stacy,Cardinals, B,Mississippi State
+861, ,1,5,5,Dave Baker,49ers,QB,Oklahoma
+862, ,1,7,7,Don Clark,Bears,RB,Ohio State
+863, ,1,9,9,Paul Dickson,Rams, T,Baylor
+864, ,1,11,11,Rich Kreitling,Browns,WR,Illinois
+865,1958,1,1,1,King Hill,Cardinals,QB,Rice
+866, ,1,3,3,Dan Currie,Packers, C,Michigan State
+867, ,1,5,5,Jim (Red) Phillips,Rams, E,Auburn
+868, ,1,7,7,Chuck Howley,Bears,LB,West Virginia
+869, ,1,9,9,Charlie Krueger,49ers, T,Texas A&M
+870, ,1,11,11,Lenny Lyles,Colts, B,Louisville
+871, ,1,13,13,Jim Shofner,Browns,DB,Texas Christian
+872, ,1,2,2,Jon Arnett,Rams, B,USC
+873, ,1,4,4,Ron Kramer,Packers, E,Michigan
+874, ,1,6,6,Jim Brown,Browns,RB,Syracuse
+875, ,1,8,8,Jim Parker,Colts, T,Ohio State
+876, ,1,10,10,Jerry Tubbs,Cardinals, C,Oklahoma
+877, ,1,12,12,Bill Glass,Lions, G,Baylor
+878,1956,1,1,1,Gary Glick,Steelers,QB,Colorado State
+879, ,1,3,3,Howard (Hopalong) Cassady,Lions,RB,Ohio State
+880, ,1,5,5,Art Davis,Steelers, B,Mississippi State
+881, ,1,7,7,Joe Childress,Cardinals, B,Auburn
+882, ,1,9,9,Lenny Moore,Colts,RB,Penn State
+883, ,1,11,11,Charlie Horton,Rams, B,Vanderbilt
+884, ,1,13,13,Preston Carpenter,Browns, B,Arkansas
+885, ,1,2,2,Max Boydston,Cardinals, E,Oklahoma
+886, ,1,4,4,Ralph Guglielmi,Redskins,QB,Notre Dame
+887, ,1,6,6,Frank Varrichione,Steelers, T,Notre Dame
+888, ,1,8,8,Joe Heap,Giants, B,Notre Dame
+889, ,1,10,10,Dickie Moegle,49ers, B,Rice
+890, ,1,12,12,Dave Middleton,Lions, B,Auburn
+891,1954,1,1,1,Bobby Garrett,Browns,QB,Stanford
+892, ,1,3,3,Art Hunter,Packers, T,Notre Dame
+893, ,1,5,5,Cotton Davidson,Colts,QB,Baylor
+894, ,1,7,7,John Lattner,Steelers,RB,Notre Dame
+895, ,1,9,9,Neil Worden,Eagles, B,Notre Dame
+896, ,1,11,11,Bernie Faloney,49ers, B,Maryland
+897, ,1,13,13,Dick Chapman,Lions, T,Rice
+898, ,1,2,2,Billy Vessels,Colts,RB,Oklahoma
+899, ,1,4,4,Johnny Olszewski,Cardinals, B,California
+900, ,1,6,6,Billy Anderson,Bears,RB,Compton J.C.
+901, ,1,8,8,Bobby Marlow,Giants, B,Alabama
+902, ,1,10,10,Tom Stolhanske,49ers, E,Texas
+903, ,1,12,12,Ed Barker,Rams, E,Washington State
+904,1952,1,1,1,Billy Wade,Rams,QB,Vanderbilt
+905, ,1,3,3,Ollie Matson,Cardinals,RB,San Francisco
+906, ,1,5,5,Johnny Bright,Eagles, B,Drake
+907, ,1,7,7,Larry Isbell,Redskins, B,Baylor
+908, ,1,9,9,Hugh McElhenny,49ers,RB,Washington
+909, ,1,11,11,Frank Gifford,Giants,RB,USC
+910, ,1,13,13,Bob Carey,Rams, E,Michigan State
+911, ,1,2,2,Bob Williams,Bears,QB,Notre Dame
+912, ,1,4,4,Leon Heath,Redskins, B,Oklahoma
+913, ,1,6,6,Jerry Groom,Cardinals, C,Notre Dame
+914, ,1,8,8,Chet Mutryn,Eagles, B,Xavier
+915, ,1,10,10,Billy Stone,Bears, B,Bradley
+916, ,1,12,12,Gene Schroeder,Bears, E,Virginia
+917, ,1,14,14,Kenny Konz,Browns, B,Louisiana State
+918, ,1,2,2,Adrian Burk,Colts,QB,Baylor
+919, ,1,4,4,Clayton Tonnemaker,Packers, C,Minnesota
+920, ,1,6,6,George Thomas,Redskins, B,Oklahoma
+921, ,1,8,8,Lynn Chandois,Steelers, B,Michigan State
+922, ,1,10,10,Fred (Curly) Morrison,Bears, B,Ohio State
+923, ,1,12,12,Stan West,Rams, G,Oklahoma
+924, ,1,14,14,Harry (Bud) Grant,Eagles, E,Minnesota
+925, ,1,2,2,Johnny Rauch,Lions,QB,Georgia
+926, ,1,4,4,Paul Page,Giants, B,Southern Methodist
+927, ,1,6,6,Bobby Gage,Steelers, B,Clemson
+928, ,1,8,8,Rob Goode,Redskins, B,Texas A&M
+929, ,1,10,10,Bill Fischer,Cardinals, G,Notre Dame
+930,1948,1,1,1,Harry Gilmer,Redskins,QB,Alabama
+931, ,1,3,3,Bobby Layne,Bears,QB,Texas
+932, ,1,5,5,Vaughn Mancha,Yanks, C,Alabama
+933, ,1,7,7,Earl (Jug) Girard,Packers, B,Wisconsin
+934, ,1,9,9,Dan Edwards,Steelers, E,Georgia
+935, ,1,11,11,Jim Spavital,Cardinals, B,Oklahoma State
+936, ,1,2,2,Glenn Davis,Lions,RB,Army
+937, ,1,4,4,Cal Rossi,Redskins, B,UCLA
+938, ,1,6,6,Ernie Case,Packers, B,UCLA
+939, ,1,8,8,Neill Armstrong,Eagles, E,Oklahoma State
+940, ,1,10,10,Vic Schwall,Giants, B,Northwestern
+941,1946,1,1,1,Frank (Boley) Dancewicz,Yanks,QB,Notre Dame
+942, ,1,3,3,Felix (Doc) Blanchard,Steelers, B,Army
+943, ,1,5,5,George Connor,Giants,LB,Notre Dame
+944, ,1,7,7,Leo Riggs,Eagles, B,USC
+945, ,1,9,9,Cal Rossi,Redskins, B,UCLA
+946,1945,1,1,1,Charley Trippi,Cardinals, B,Georgia
+947, ,1,3,3,Joe Renfroe,Dodgers, B,Tulane
+948, ,1,5,5,Elroy Hirsch,Rams,WR,Michigan/Wisconsin
+949, ,1,7,7,Don Lund,Bears,RB,Michigan
+950, ,1,9,9,John Yonaker,Eagles, E,Notre Dame
+951, ,1,11,11,Walt Schlinkman,Packers, B,Texas Tech
+952, ,1,2,2,Pat Harder,Cardinals, B,Wisconsin
+953, ,1,4,4,Otto Graham,Lions,QB,Northwestern
+954, ,1,6,6,Billy Hillenbrand,Giants, B,Indiana
+955, ,1,8,8,Mike Micka,Redskins, B,Colgate
+956, ,1,10,10,Johnny Podesto,Steelers, B,St. Mary's (CA)
+957,1943,1,1,1,Frank Sinkwich,Lions,RB,Georgia
+958, ,1,3,3,Glenn Dobbs,Cardinals, B,Tulsa
+959, ,1,5,5,Mike Holovak,Rams, B,Boston College
+960, ,1,7,7,Bill Daley,Steelers, B,Minnesota
+961, ,1,9,9,Bob Steuber,Bears,RB,Missouri
+962,1942,1,1,1,Bill Dudley,Steelers, B,Virginia
+963, ,1,3,3,Pete Kmetovic,Eagles, B,Stanford
+964, ,1,5,5,Bob Westfall,Lions, B,Michigan
+965, ,1,7,7,Bob Robertson,Dodgers, B,USC
+966, ,1,9,9,Urban Odson,Packers, T,Minnesota
+967,1941,1,1,1,Tom Harmon,Bears, B,Michigan
+968, ,1,3,3,Norm Standlee,Bears, B,Stanford
+969, ,1,5,5,Jim Thomason,Lions, B,Texas A&M
+970, ,1,7,7,George Paskvan,Packers, B,Wisconsin
+971, ,1,9,9,Don Scott,Bears, B,Ohio State
+972,1940,1,1,1,George Cafego,Cardinals, B,Tennessee
+973, ,1,3,3,Kay Eakin,Steelers, B,Arkansas
+974, ,1,5,5,Olie Cordill,Rams, B,Rice
+975, ,1,7,7,Clyde (Bulldog) Turner,Bears, C,Hardin-Simmons
+976, ,1,9,9,Hal Van Every,Packers, B,Minnesota
+977,1939,1,1,1,Ki Aldrich,Cardinals, C,Texas Christian
+978, ,1,3,3,Parker Hall,Rams, B,Mississippi
+979, ,1,5,5,Bob MacLeod,Dodgers, B,Dartmouth
+980, ,1,7,7,John Pingel,Lions, B,Michigan State
+981, ,1,9,9,Larry Buhler,Packers, B,Minnesota
+982,1938,1,1,1,Corbett Davis,Rams, B,Indiana
+983, ,1,3,3,Boyd Brumbaugh,Dodgers, B,Duquesne
+984, ,1,5,5,Jack Robbins,Cardinals, B,Arkansas
+985, ,1,7,7,Cecil Isbell,Packers, B,Purdue
+986, ,1,9,9,Andy Farkas,Redskins, B,Detroit
+987,1937,1,1,1,Sam Francis,Eagles, B,Nebraska
+988, ,1,3,3,Ray (Buzz) Buivid,Cardinals, B,Marquette
+989, ,1,5,5,Mike Basrak,Steelers, C,Duquesne
+990, ,1,7,7,Lloyd Cardwell,Lions, B,Nebraska
+991, ,1,9,9,Eddie Jankowski,Packers, B,Wisconsin
+992,1936,1,1,1,Jay Berwanger,Eagles, B,Chicago
+993, ,1,3,3,Bill Shakespeare,Steelers, B,Notre Dame
+994, ,1,5,5,Jim Lawrence,Cardinals, B,Texas Christian
+995, ,1,7,7,Russ Letlow,Packers, G,San Francisco
+996, ,1,9,9,Art Lewis,Giants, T,Ohio
