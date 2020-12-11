@@ -2,7 +2,7 @@
 
 The prediction question I am trying to answer is:
 
-###### Can we predict if a NCAA College Football QB is going to be drafted in the first round whe they enter the NFL? 
+###### Can we predict if a NCAA College Football QB is going to be drafted in the first round when they enter the NFL? 
 
 I have always loved sports, and much analysis is done by teams on future players that can join their organization. Being able to predict is someone is going to be drafted first round is invaluable to a team, if you work for the orginization it would be very helpful to know if someone is first round talent based off historical data. The difference between a first round and a second, third, fouth... etc, round pick is suddle, but has huge impacts on the team. Teams also scout years ahead at potential picks, and every team is looking for that "steal" of a pick. Knowing if someone is potentially going to be picked first round ahead of time allows you to look for those crucial "steals" of the draft.
 
